@@ -1,0 +1,5 @@
+[2025-07-30T15:43:25.670Z] GET /
+[2025-07-30T15:44:59.032Z] POST /log-error
+[2025-07-30T15:44:59.033Z] [CRITICAL] [frontend-app] Something crashed
+Error: crash at line 9
+
