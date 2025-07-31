@@ -3,3 +3,8 @@
 [2025-07-30T15:44:59.033Z] [CRITICAL] [frontend-app] Something crashed
 Error: crash at line 9
 
+[2025-07-31T05:44:45.464Z] POST /log-error
+[2025-07-31T05:44:45.469Z] [CRITICAL] [frontend-app] Something crashed
+Error: crash at line 9
+
+[2025-07-31T05:45:38.384Z] GET /log-error
